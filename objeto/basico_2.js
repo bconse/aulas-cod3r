@@ -9,3 +9,4 @@ const produto = {
 
 console.log(produto.nome)
 console.log(produto.precoComDesconto())
+console.log(produto)
